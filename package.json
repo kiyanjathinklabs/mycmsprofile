@@ -1,0 +1,16 @@
+{
+  "name": "mycmssite",
+  "version": "1.0.0",
+  "description": "My CMS Website Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Benaloga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2",
+    "mongoose": "^6.2.3"
+  }
+}
