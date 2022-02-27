@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
 const path = require('path');
 //Loads the handlebars module
 const { engine } = require('express-handlebars');
-const port = 4000;
+const port = 4001;
 const app = express();
 
 // Configure express
